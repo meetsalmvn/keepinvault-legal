@@ -69,8 +69,11 @@ a { color: var(--primary-color); }
   border-bottom: 1px solid var(--border-color);
   padding: 1rem 1.5rem;
   display: grid;
-  grid-template-columns: 1fr auto 1fr;
-  grid-template-areas: "brand nav toggle";
+  grid-template-columns: auto 1fr;
+  grid-template-areas:
+    "brand toggle"
+    "nav   nav";
+  row-gap: 0.85rem;
   align-items: center;
   position: sticky;
   top: 0;
@@ -102,17 +105,17 @@ a { color: var(--primary-color); }
   color: var(--text-main);
 }
 
-/* Top nav (Privacy Policy / Terms & Conditions / EULA), centered in the header */
+/* Top nav (Privacy Policy / Terms & Conditions / EULA), left-aligned under the logo */
 .page-nav {
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
   background-color: var(--badge-bg);
   padding: 0.25rem;
   border-radius: 8px;
   border: 1px solid var(--border-color);
   gap: 0.15rem;
   grid-area: nav;
-  justify-self: center;
+  justify-self: start;
 }
 
 .page-nav a {
@@ -227,8 +230,9 @@ a { color: var(--primary-color); }
 }
 
 .content-wrapper {
-  max-width: 800px;
-  margin: 0 auto;
+    width: 100%;
+    max-width: none;
+    margin: 0;
 }
 
 @keyframes fadeIn {
