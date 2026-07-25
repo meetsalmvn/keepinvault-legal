@@ -11,6 +11,7 @@ keepinvault-legal/
 ├── index.html                  Privacy Policy — this is the site's landing page
 ├── terms-and-conditions.html   full Terms & Conditions
 ├── eula.html                   full End User License Agreement
+├── LICENSE                     KeepinVault Proprietary Software License
 ├── assets/
 │   ├── style.css                shared styles (light/dark theme, layout)
 │   ├── script.js                sidebar TOC, scroll-spy, dark mode, mobile nav
@@ -26,6 +27,11 @@ pinned left and the dark-mode toggle pinned right — that's a 3-column CSS
 grid (`grid-template-columns: 1fr auto 1fr`) on `.app-header`, not
 flexbox `space-between`, so the nav stays visually centered regardless of
 how wide the logo or the toggle button are.
+
+The LICENSE file is not published as part of the website navigation.
+It exists for the GitHub repository and defines the licensing terms for the
+KeepinVault source code and repository. The EULA continues to govern the use
+of the installed Android application.
 
 `eula.html` is flat — one heading per section (e.g. "1.1 Purpose", "2.1 App"),
 with no "Phase N" grouping labels. The source document's numbering (1.1, 1.2,

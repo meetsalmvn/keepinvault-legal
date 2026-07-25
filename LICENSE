@@ -1,24 +1,24 @@
-# KeepinVault Proprietary Software License
+KeepinVault Proprietary Software License
 
-**Version:** 1.0
-**Effective Date:** [Effective Date]
-**Last Updated:** [Last Updated]
+Version: 1.0
+Effective Date: [Effective Date]
+Last Updated: [Last Updated]
 
-Copyright © 2026 Salman Khurshid. All rights reserved.
+Copyright © 2026 SalmanK. All rights reserved.
 
-## 1. Ownership
+1. Ownership
 
 KeepinVault, including its source code, object code, user interface, graphics, branding, logos, documentation, and all associated intellectual property, is owned by the Developer unless otherwise stated.
 
 KeepinVault is proprietary software and is protected by applicable copyright and other intellectual property laws.
 
-## 2. Grant of Permission
+2. Grant of Permission
 
 Subject to the accompanying End User License Agreement ("EULA"), the Developer grants end users a limited, personal, non-exclusive, non-transferable, and revocable License to install and use KeepinVault for personal, non-commercial purposes.
 
 No ownership rights are transferred under this License.
 
-## 3. Restrictions
+3. Restrictions
 
 Except as expressly permitted by the EULA or applicable law, you may not:
 
@@ -29,23 +29,23 @@ Except as expressly permitted by the EULA or applicable law, you may not:
 * Sell, lease, sublicense, or commercially exploit KeepinVault.
 * Remove or alter any copyright, trademark, or proprietary notices.
 
-## 4. Open Source Components
+4. Open Source Components
 
 KeepinVault may include third-party open-source components that are licensed under their respective licenses.
 
 Nothing in this License modifies or replaces the terms of those third-party licenses. Copies of applicable third-party licenses are provided separately where required.
 
-## 5. Reservation of Rights
+5. Reservation of Rights
 
 All rights not expressly granted by this License or the accompanying EULA are reserved by the Developer.
 
-## 6. No Warranty
+6. No Warranty
 
 Except to the extent required by applicable law, KeepinVault is provided "AS IS" without warranties of any kind.
 
 Additional warranty disclaimers, limitations of liability, and other legal provisions are contained in the accompanying EULA and Terms & Conditions.
 
-## 7. Governing Documents
+7. Governing Documents
 
 This License should be read together with the following documents:
 
@@ -55,8 +55,8 @@ This License should be read together with the following documents:
 
 In the event of any inconsistency relating specifically to the software License granted to end users, the EULA shall govern.
 
-## 8. Contact
+8. Contact
 
 For licensing questions or other inquiries regarding KeepinVault, contact:
 
-**Email:** [khurshidsalman446@gmail.com](mailto:khurshidsalman446@gmail.com)
+Email: khurshidsalman446@gmail.com
